@@ -1,1 +1,1 @@
-# berka-lakehouse-databricks
+# brazilian-ecommerce-lakehouse-databricks
